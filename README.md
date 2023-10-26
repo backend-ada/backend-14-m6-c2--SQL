@@ -1,7 +1,7 @@
 <h1 align="center"> BASES DE DATOS </h1>
 <h3 align="center"> Normalización </h3>
 
-Cuando analizamos bien en detalle todos los datos crudos que podrían conformar nuestra futura base de datos y los estructuramos de tal forma de reducir al mínimo la redundancia, siguiendo unos pasos bien definidos, estamos realizando el llamado proceso de **Normalización**. 
+Cuando analizamos bien en detalle todos los datos crudos que podrían conformar nuestra futura base de datos y los estructuramos de tal forma de reducir al mínimo la redundancia, siguiendo unos pasos bien definidos, estamos realizando el llamado proceso de **Normalización**.
 
 #### Se trata de conectar los datos en la forma correcta.
 
@@ -11,7 +11,7 @@ Las tablas normalizadas son más fáciles de entender, de extender, de mejorar, 
 
 #### 1NF | Eliminamos los grupos repetidos:
 
--   El orden en que se guardan los datos en las tablas no debe importar. 
+-   El orden en que se guardan los datos en las tablas no debe importar.
 -   Cada campo sólamente debe tener un valor y cada columna debe contener valores del mismo tipo.
 -   Cada nombre de columna debe de ser único.
 -   Cada registro tiene que estar asociado a una **clave principal** o **Primary Key** **_(PK)_**.
@@ -36,13 +36,11 @@ El nombre **SQL** está compuesto por las siglas en inglés de **_Structured Que
 
 #### Sintaxis
 
-![COMANDOS SQL](https://i.ibb.co/c2s32QR/comandos-sql.png)
+![COMANDOS SQL](./img/comandos.png)
 
+![OPERADORES SQL](./img/operadores.png)
 
-![OPERADORES SQL](https://i.ibb.co/L1nrmgZ/operadores.png)
-
-
-![CONSULTA SQL COMPLETA](https://i.ibb.co/jvhbxQv/consulta-sql.png)
+![CONSULTA SQL COMPLETA](./img/consulta%20sql.png)
 
 <h1 align="center"> LINKS </h1>
 
